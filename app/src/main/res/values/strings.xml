@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="action_sort_popular">SortBy mostPopular</string>
+    <string name="action_sort_high_rated">SortBy highestRated</string>
+    <string name="movies_details_activity_label">Movie Details</string>
+    <string name="error_message">An error has occured. Please check your network connection !</string>
+    <string name="no_favorite_list">you have not any favorite movies.</string>
+    <string name="trailers">Trailers</string>
+    <string name="overview_text">Overview</string>
+    <string name="no_trailer_string">There\'re no trailers for this movie !</string>
+    <string name="reviews">Reviews</string>
+    <string name="review_error">An Error occured with reviews check your network connection !</string>
+    <string name="no_review_string"> There\'re no reviews for this movie !</string>
+    <string name="trailer_error">An Error occured with trailers check your network connection !</string>
+    <string name="action_add_to_list">add to my favorites</string>
+    <string name="action_sort_favorite_list">My favorite list</string>
+    <string name="action_remove_from_list">REMOVE FROM MY FAVORITES</string>
+</resources>

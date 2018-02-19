@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="movie_title_background_hieght">135dp</dimen>
+    <dimen name="movie_poster_hieght">250dp</dimen>
+    <dimen name="loading_indicator_hieght">42dp</dimen>
+    <dimen name="loading_indicator_width">42dp</dimen>
+</resources>
